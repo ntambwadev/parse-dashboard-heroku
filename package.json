@@ -7,6 +7,6 @@
   },
   "dependencies": {
     "mustache": "2.2.1",
-    "parse-dashboard": "1.0.9"
+    "parse-dashboard": "*"
   }
 }
