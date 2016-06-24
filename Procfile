@@ -1,1 +1,1 @@
-web: node make_config.js && parse-dashboard --config config.json --allowInsecureHTTP=1
+web: bin/parse-dashboard --config Parse-Dashboard/parse-dashboard-config.json --allowInsecureHTTP
